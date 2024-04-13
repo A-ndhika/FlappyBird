@@ -12,3 +12,4 @@ you will get different medal if you reach specific score :
 -Shiny Silver Medal >= 15 Score  
 -Gold Medal >= 20 Score  
 Enjoy!  
+[Download](https://github.com/A-ndhika/FlappyBird/archive/refs/heads/main.zip)
